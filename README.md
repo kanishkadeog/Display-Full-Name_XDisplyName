@@ -30,10 +30,12 @@ This project demonstrates fundamental concepts of React like state management, f
 | Initial View | After Submission |
 |--------------|------------------|
 | ![Initial]
-![image](https://github.com/user-attachments/assets/6d08aa1e-3145-49c5-a8aa-cb76cc60f047)
+![image](https://github.com/user-attachments/assets/7eb4fd5c-64b2-4d00-91b8-8942027946b5)
+
 
 | ![Submitted]
-![image](https://github.com/user-attachments/assets/60fcf7f5-7af0-44e8-a9ec-487e5c29cd73)
+![image](https://github.com/user-attachments/assets/dcda6625-52a8-4b60-8f30-4d3a2315c837)
+
  |
 
 ## 🛠️ Features
